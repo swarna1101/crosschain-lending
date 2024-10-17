@@ -1,0 +1,59 @@
+.pools {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 18px;
+  text-align: left;
+}
+
+.styled-table thead tr {
+  background-color: #e81898; /* Changed */
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid #e81898; /* Changed */
+}
+
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: #e81898; /* Changed */
+}
+
+.borrow-button {
+  padding: 8px 16px;
+  background-color: #e81898; /* Changed */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.borrow-button:hover {
+  background-color: #d3178e; /* Adjust hover color to match the new theme */
+}
+
+h2, h3 {
+  color: #333;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@layerzerolabs/lz-evm-protocol-v2": "^2.3.25",
+    "@layerzerolabs/lz-v2-utilities": "^2.3.25",
+    "@layerzerolabs/test-devtools-evm-hardhat": "^0.2.4",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3",
+    "hardhat-tracer": "^3.0.1"
+  },
+  "dependencies": {
+    "@layerzerolabs/lz-evm-oapp-v2": "^2.3.25",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^4.9.3",
+    "@pythnetwork/pyth-sdk-solidity": "^4.0.0",
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "dotenv": "^16.4.5"
+  }
+}
