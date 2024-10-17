@@ -1,6 +1,6 @@
 # _lzLend()
 
-![](flow.png)
+![](flow_lend.png)
 
 P2P Cross-Chain Lending With An Aggregated Cross-Chain Oracle.
 
